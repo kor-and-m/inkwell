@@ -52,6 +52,7 @@ llvm15-0-no-llvm-linking = ["llvm15-0", "llvm-sys-150/no-llvm-linking"]
 llvm16-0-no-llvm-linking = ["llvm16-0", "llvm-sys-160/no-llvm-linking"]
 llvm17-0-no-llvm-linking = ["llvm17-0", "llvm-sys-170/no-llvm-linking"]
 llvm18-0-no-llvm-linking = ["llvm18-0", "llvm-sys-180/no-llvm-linking"]
+llvm18-1-no-llvm-linking = ["llvm18-1", "llvm-sys-180/no-llvm-linking"]
 
 # Linking preference.
 # If none of these are enabled, it defaults to force static linking.
